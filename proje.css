@@ -1,0 +1,12 @@
+body::before{
+    display: flex;
+    content:"";
+    height:70px;
+
+}
+#map {
+    height: 400px;
+    width: 100%;
+    background-color: red;
+
+}
